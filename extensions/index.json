@@ -30,7 +30,7 @@
 	],
 	"beta": [ "amazon", "instagram-gallery", "podcast-player" ],
 	"experimental": [ "seo" ],
-	"p2tenberg": [
+	"no-post-editor": [
 		"business-hours",
 		"calendly",
 		"contact-form",
